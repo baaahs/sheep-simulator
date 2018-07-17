@@ -18,4 +18,4 @@ Once installed, close the "Add Library" window and select the "Play" button on t
 
 The lights server daemon connects to the simulator to render your developed shows here when BAAAHS isn't constructed. If you stop the SheepSimulator, the lights server will bomb and close. If your start the lights server prior to starting the SheepSimulator, it will bomb.
 
-[Sheep Simulator](https://github.com/baaahs/sheep-simulator/blob/images/simulator.png?raw=true)
+![Sheep Simulator](https://github.com/baaahs/sheep-simulator/blob/images/simulator.png?raw=true)
